@@ -4,7 +4,6 @@ using Sesame.Communication.Data;
 using Sesame.Communication.External.Client;
 using System;
 using System.Collections.Generic;
-using System.Configuration;
 using System.Diagnostics;
 using System.IO;
 using System.Runtime.CompilerServices;
